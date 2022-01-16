@@ -7,3 +7,5 @@ Each day's directory contains:
 3. Their expected outputs. 
 
 There are also some explanations of specific functions, the approaches to the solutions, and/or ways to optimize a given solution.
+
+Since I was learning Haskell while doing these problems, some of them are quite inefficient.
